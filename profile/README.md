@@ -1,4 +1,4 @@
-# 2024 Solution Challenge: TrueTree
+# 2024 Solution Challenge: TrueTree
 
 <br>
 
