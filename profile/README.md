@@ -1,12 +1,12 @@
-## Hi there 👋
+# 2024 Solution Challenge: TrueTree
 
-<!--
+<br>
 
-**Here are some ideas to get you started:**
+<br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Contributors
+
+
+| ML & Frontend | Backend | Backend | 
+|:----------:|:----------:|:----------:|
+| [<img src="https://avatars.githubusercontent.com/u/81565724?v=4" alt="" style="width:100px;100px;">](https://github.com/yulleta)<br/><div align="center">김민경</div> | [<img src="https://avatars.githubusercontent.com/u/61193581?v=4" alt="" style="width:100px;100px;">](https://github.com/Yeon-chae)<br/><div align="center">박채연</div> | [<img src="https://avatars.githubusercontent.com/u/80513699?v=4" alt="" style="width:100px;100px;">](https://github.com/ahyeon-github) <br/><div align="center">임아현</div>
