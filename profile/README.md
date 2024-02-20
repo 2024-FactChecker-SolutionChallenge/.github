@@ -28,6 +28,9 @@ These efforts ultimately play an important role in protecting democracy and soci
 <br>
 
 ### 🔧 Google Technology Used
+| GCP | Gemini  | Tensorflow |
+| --- | --- | --- |
+| ![image](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/7a9949bd-64a8-42ff-a61d-5f89dae7f640) | ![image](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/cc2f1153-751c-46c3-a667-390b97c1ca69) |![image](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/0092c3c6-bf4d-44fa-a63c-59e1c309df2f)|
 
 ### 🛠 Project Architecture
 ![SoftWareArchitecture](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/3c25d8f0-076e-4234-98df-3fc2207256fe)
