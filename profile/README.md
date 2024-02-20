@@ -39,7 +39,7 @@ By implementing these measures, users can better discern accurate information, f
 
 ### Feature Overview
 ### 01 Initial Screen
-| Android Screen                                                                                                                 | Explanation                              |
+| Screen                                                                                                                         | Explanation                              |
 |--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
 | ![initial](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/43e82a29-7ed9-4364-912f-0f453b443a18)| You can log in after signing up for membership. <br>(Sign up process is omitted)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
