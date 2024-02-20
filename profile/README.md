@@ -2,7 +2,8 @@
 [![섬네일2](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/d0634267-3f41-4f88-ba58-84caad146473)](https://youtu.be/caAKMsfhS1A?si=YCi3jgXgVWx-P3XT)
 
 <br>
-### ❗️ Introduction
+###❗️ Introduction
+
 Fake news has become a global social problem, spreading misinformation and causing harm. It's fueled by AI-generated content and deep-fake technology, disrupting the information ecosystem. This issue is particularly evident during critical events like the Russian invasion of Ukraine, the Israeli-Palestinian conflict, and US elections.
 In response, the US media plans to combat misinformation by disseminating fake videos of Russia attacking its own country during the Ukraine conflict. This tactic aims to expose the invasion's reality. However, fake news exacerbates confusion and anxiety, contributing to international conflict.
 The spread of fake news is also alarming domestically, especially among students whose literacy suffers due to digital media exposure. Korean students exhibit low proficiency in identifying digital information authenticity, the lowest among OECD countries. Primary school teachers attribute this to students' reliance on video platforms like YouTube and deficient reading skills.
