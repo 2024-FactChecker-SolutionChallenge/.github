@@ -42,20 +42,24 @@ By implementing these measures, users can better discern accurate information, f
 ### 01 Initial Screen
 | Android Screen                                                                                                                 | Explanation                              |
 |--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-| <img src="https://user-images.githubusercontent.com/61380136/229187779-eb9e0f87-4881-465b-8a56-21b92a39d14e.gif" width="250"/> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+| ![initial](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/43e82a29-7ed9-4364-912f-0f453b443a18)| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
 ### 02 Home Screen
 | Screen                                                                                                                        | Explanation                                           |
 |-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| <img src="https://user-images.githubusercontent.com/61380136/229188331-aba2c8b1-b7de-4c6f-aced-c4caac693e6e.gif" width="250"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+| ![home](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/2b9d5c2d-0298-48a9-9db0-42e426e19ca3)| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
-### 03 Learn Screen
+### 03 Article Screen
+| Screen                                                                                                                        | Explanation                                           |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+|![Article](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/fe47f2bd-b3f5-4c19-96f9-3006e2a1a87c)| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+
+### 04 Learn Screen
 | Screen                                | Explanation |
 |---------------------------------------|-------------------------------------------------------|
-|**1) vocabulary list** <br/> <br/> <img src="https://user-images.githubusercontent.com/61380136/229590186-580638f7-11e6-4c13-b0bd-bf1db7fa6ee6.gif" width="250"/> | |
+|**1) vocabulary list & Flip Card** <br/> <br/> <img src="https://user-images.githubusercontent.com/61380136/229590186-580638f7-11e6-4c13-b0bd-bf1db7fa6ee6.gif" width="250"/> | |
 | **2) Word Quiz ** <br/> <br/> <img src="https://user-images.githubusercontent.com/61380136/229347561-820f69c3-2840-4d68-b8cd-9b43fcda6e17.gif" width="250"/> | |
-| **3) Flip Card ** <br/> <br/> <img src="https://user-images.githubusercontent.com/61380136/229347375-d3f2e958-d7e1-4b37-bcef-27588e1b2607.gif" width="250"/> |  |
-| **4) Search** <br/> (Provide Similarity Search) <br/> <br/> <img src="https://user-images.githubusercontent.com/61380136/229589104-73d9f6a3-49a8-46d1-8dca-b261f3b0458a.gif" width="250"/> |  |
+
 
 ### 04 
 | Screen                                                                                                                         | Explanation                                                                                                                                                                                                                          |
