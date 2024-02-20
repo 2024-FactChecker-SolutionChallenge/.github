@@ -25,7 +25,7 @@ By implementing these measures, users can better discern accurate information, f
 ### ✔ UN SDGs Goals & Target
 | Peace & Justice & Strong Institutions | Quality Education  | 
 | --- | --- |
-| <img src="https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/52c5211c-105b-41d0-b953-67f1564b5fc9" width="250"/> | <img src="https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/e92fc805-92d7-4b13-96cf-a989b4393c4d" width="250"/>
+|<img src="https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/aff497a5-b035-429a-a02b-a91864d6dfbf" width="250"/> | <img src="https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/e92fc805-92d7-4b13-96cf-a989b4393c4d" width="250"/>
 
 
 <br>
@@ -39,6 +39,34 @@ By implementing these measures, users can better discern accurate information, f
 ![SoftWareArchitecture](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/3c25d8f0-076e-4234-98df-3fc2207256fe)
 
 ### Feature Overview
+### 01 Initial Screen
+| Android Screen                                                                                                                 | Explanation                              |
+|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/61380136/229187779-eb9e0f87-4881-465b-8a56-21b92a39d14e.gif" width="250"/> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+
+### 02 Home Screen
+| Screen                                                                                                                        | Explanation                                           |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/61380136/229188331-aba2c8b1-b7de-4c6f-aced-c4caac693e6e.gif" width="250"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+
+### 03 Learn Screen
+| Screen                                | Explanation |
+|---------------------------------------|-------------------------------------------------------|
+|**1) vocabulary list** <br/> <br/> <img src="https://user-images.githubusercontent.com/61380136/229590186-580638f7-11e6-4c13-b0bd-bf1db7fa6ee6.gif" width="250"/> | |
+| **2) Word Quiz ** <br/> <br/> <img src="https://user-images.githubusercontent.com/61380136/229347561-820f69c3-2840-4d68-b8cd-9b43fcda6e17.gif" width="250"/> | |
+| **3) Flip Card ** <br/> <br/> <img src="https://user-images.githubusercontent.com/61380136/229347375-d3f2e958-d7e1-4b37-bcef-27588e1b2607.gif" width="250"/> |  |
+| **4) Search** <br/> (Provide Similarity Search) <br/> <br/> <img src="https://user-images.githubusercontent.com/61380136/229589104-73d9f6a3-49a8-46d1-8dca-b261f3b0458a.gif" width="250"/> |  |
+
+### 04 
+| Screen                                                                                                                         | Explanation                                                                                                                                                                                                                          |
+|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/61380136/229195752-052e0931-496b-45fc-ae42-26657fd90da6.gif" width="250"/> |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> <br/> [ |
+
+
+### 05 My Page
+| Screen                                                                                                                         | Explanation                                                                                                                                                                                                                                                                                                                                                                                                           |
+|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/61380136/229195541-5447e7c0-6888-4f59-aca8-69e50505effb.gif" width="250"/> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |
 
 <br>
 
