@@ -2,7 +2,8 @@
 [![섬네일2](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/d0634267-3f41-4f88-ba58-84caad146473)](https://youtu.be/caAKMsfhS1A?si=YCi3jgXgVWx-P3XT)
 
 <br>
-###❗️ Introduction
+
+### ❗️ Introduction
 
 Fake news has become a global social problem, spreading misinformation and causing harm. It's fueled by AI-generated content and deep-fake technology, disrupting the information ecosystem. This issue is particularly evident during critical events like the Russian invasion of Ukraine, the Israeli-Palestinian conflict, and US elections.
 In response, the US media plans to combat misinformation by disseminating fake videos of Russia attacking its own country during the Ukraine conflict. This tactic aims to expose the invasion's reality. However, fake news exacerbates confusion and anxiety, contributing to international conflict.
@@ -22,12 +23,10 @@ By implementing these measures, users can better discern accurate information, f
 <br>
 
 ### ✔ UN SDGs Goals & Target
-| GCP | Gemini  | 
+| Peace & Justice & Strong Institutions | Quality Education  | 
 | --- | --- |
 | <img src="https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/52c5211c-105b-41d0-b953-67f1564b5fc9" width="250"/> | <img src="https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/e92fc805-92d7-4b13-96cf-a989b4393c4d" width="250"/>
 
-![image 37](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/52c5211c-105b-41d0-b953-67f1564b5fc9)
-![image 36](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/e92fc805-92d7-4b13-96cf-a989b4393c4d)
 
 <br>
 
