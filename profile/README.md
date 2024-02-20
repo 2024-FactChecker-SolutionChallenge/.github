@@ -1,5 +1,6 @@
 # 2024 Solution Challenge: TrueTree
-![섬네일2](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/d0634267-3f41-4f88-ba58-84caad146473)
+[![섬네일2](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/d0634267-3f41-4f88-ba58-84caad146473)](https://youtu.be/caAKMsfhS1A?si=YCi3jgXgVWx-P3XT)
+
 <br>
 ### ❗️ Introduction
 Fake news has become a global social problem, spreading misinformation and causing harm. It's fueled by AI-generated content and deep-fake technology, disrupting the information ecosystem. This issue is particularly evident during critical events like the Russian invasion of Ukraine, the Israeli-Palestinian conflict, and US elections.
