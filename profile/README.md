@@ -25,7 +25,7 @@ By implementing these measures, users can better discern accurate information, f
 ### ✔ UN SDGs Goals & Target
 | Peace & Justice & Strong Institutions | Quality Education  | 
 | --- | --- |
-|<img src="https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/aff497a5-b035-429a-a02b-a91864d6dfbf" width="100"/> | <img src="https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/e92fc805-92d7-4b13-96cf-a989b4393c4d" width="100"/>
+|<img src="https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/aff497a5-b035-429a-a02b-a91864d6dfbf" width="200"/> | <img src="https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/e92fc805-92d7-4b13-96cf-a989b4393c4d" width="200"/>
 
 
 <br>
