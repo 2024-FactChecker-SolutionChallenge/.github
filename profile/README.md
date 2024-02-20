@@ -29,8 +29,7 @@ These efforts ultimately play an important role in protecting democracy and soci
 ### 🔧 Google Technology Used
 
 ### 🛠 Project Architecture
-<img width="829" alt="스크린샷 2024-02-20 오후 9 26 25" src="https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/ccf5da84-f834-4364-94e6-596278bf4ee6">
-<br>
+![SoftWareArchitecture](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/3c25d8f0-076e-4234-98df-3fc2207256fe)
 
 ### Feature Overview
 
