@@ -24,10 +24,7 @@ Fake news is prominent on digital platforms, which have become one of the main r
 These efforts ultimately play an important role in protecting democracy and social order and inining a healthy society. Improving users' ability to acquire and discern the right information will help to maintain the foundations of a healthy democracy. To this end, it is necessary to pursue Peace & Justice & Strong Institutions among the UN Sustainable Development Goals to build a peaceful and just society.
 <br>
 ### 🔧 Google Technology Used
-| GCP | Gemini  | Tensorflow |
-| --- | --- | --- |
-| <img src="https://www.notion.so/Readme-md-e6e3d9543ba64f66b9c2d08372c0ea14?pvs=21" width="250"/> | <img src="https://www.notion.so/Readme-md-e6e3d9543ba64f66b9c2d08372c0ea14?pvs=21" width="250"/> | <img src="https://www.notion.so/Readme-md-e6e3d9543ba64f66b9c2d08372c0ea14?pvs=21" width="250"/> |
-<br>
+
 ### 🛠 Project Architecture
 <img width="829" alt="스크린샷 2024-02-20 오후 9 26 25" src="https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/80513699/ccf5da84-f834-4364-94e6-596278bf4ee6">
 <br>
