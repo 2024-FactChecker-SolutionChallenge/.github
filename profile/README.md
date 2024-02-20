@@ -18,11 +18,13 @@ By implementing these measures, users can better discern accurate information, f
 - After signing up ,  log in to access the app.
 - The ml server and Spring server must be operational for the app to function properly.
 <br>
+
 ### ✔ UN SDGs Goals & Target
 We are now living in an infodemic era where false information and rumors spread rapidly through IT devices and the media, causing social, political and other crises.Concerns about the impact of fake news and information bias on society are now becoming a global problem. In particular, the spread of digital media is reducing students' literacy and vocabulary, and increasing the risk of exposure to fake news. The problem of fake news is recognised as an important social problem, both internationally and nationally, and to address it requires the dissemination of accurate information and efforts to verify whether the articles are true or not. We worked hard to solve this. We pursue Peace & Justice & Strong Institutions to help build a healthy society by providing Quality Education to enhance the ability to acquire and discern the right information.
 Fake news is prominent on digital platforms, which have become one of the main routes of news consumption. While social media and search engines provide users with a variety of information, it is difficult to determine the authenticity of this information. To address these problems, global IT companies such as Google and Facebook are focusing their efforts on highlighting fact-check articles, identifying and removing fake news. Google highlights fact-checked articles in search results, and Facebook has a policy to restrict the distribution of fake news on social media platforms.
 These efforts ultimately play an important role in protecting democracy and social order and inining a healthy society. Improving users' ability to acquire and discern the right information will help to maintain the foundations of a healthy democracy. To this end, it is necessary to pursue Peace & Justice & Strong Institutions among the UN Sustainable Development Goals to build a peaceful and just society.
 <br>
+
 ### 🔧 Google Technology Used
 
 ### 🛠 Project Architecture
