@@ -38,33 +38,33 @@ By implementing these measures, users can better discern accurate information, f
 ![SoftWareArchitecture](https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/3c25d8f0-076e-4234-98df-3fc2207256fe)
 
 ### Feature Overview
-### 01 Initial Screen
+### 01 Login & Sign up
 | Screen                                                                                                                         | Explanation                              |
 |--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-|<img src ="https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/e3627254-43ba-411d-807e-0dfb20ba61ed" width = "200"/>| You can log in after signing up for membership. <br>(Sign up process is omitted)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|<img src ="https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/e3627254-43ba-411d-807e-0dfb20ba61ed" width = "200"/>| You can log in after signing up for membership. <br>(Sign up process is skipped)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
-### 02 Home Screen
+### 02 Home Page
 | Screen                                                                                                                         | Explanation                              |
 |--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
 |<img src ="https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/a71132bb-2a6b-4e3b-8ef9-b83340528fd7" width = "200"/>| On the home screen, users can check the list of recommended articles in the field of interest.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
-### 03 Article Screen
+### 03 Article Page
 | Screen                                                                                                                         | Explanation                              |
 |--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
 |<img src ="https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/06930b8c-4a81-4e99-bfaf-a200bc85e332" width = "200"/>| If you touch the article, you can summarize the points of the article and learn the words. At this time, you can toggle the top left button to go into summary mode, and you can write and evaluate the topic of my thought in summary mode. Click the right highlighter button to enter word catch mode, and touch the word to know the meaning of the word. Then touch Save Words the words will save in your vocabulary list &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
 
-### 04 Fact check Screen
+### 04 Fact check Page
 | Screen                                                                                                                         | Explanation                              |
 |--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
 |<img src ="https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/08cae8e2-1b84-49d2-98bd-64d7157ca7dc" width = "200"/>| On this screen, you can enter the link to the YouTube news you were watching and receive reliable articles about the related content. If you insert the link and verify it, you can call up the related news in 5 minutes through the Reload verified video button. You can go to the article learning screen the same way. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
-### 05 Learn Screen - Quiz
+### 05 Learn Page - Quiz
 | Screen                                                                                                                         | Explanation                              |
 |--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
 |<img src ="https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/bdc2c5ae-8571-417f-a8fa-7bc6a43aca2f" width = "200"/>|  You can check out the remaining opportunities and challenge yourself to a current affairs word quiz. Your quiz score will be saved and you can save the wrong words in the vocabulary&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
-### 05 Learn Screen - Vocabulary list, flip card & My Page Screen
+### 05 Learn Page - Vocabulary list, flip card & My Page Screen
 | Screen                                                                                                                         | Explanation                              |
 |--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
 |<img src ="https://github.com/2024-FactChecker-SolutionChallenge/.github/assets/61193581/23d69a1d-2002-407f-96b2-44020cc6ff75" width = "200"/>|  You can check the wordbook. The word you highlightered on the article learning page and the wrong word in the word quiz will be saved. You can press it yourself to see what it means and change the current know/don't know through the toggle button/ You can learn words through the Flip card. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
